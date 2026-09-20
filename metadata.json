@@ -1,0 +1,7 @@
+{
+  "name": "CareerOS",
+  "description": "Career progression intelligence platform. Know your next move and see how close you are to a better-paying career.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
